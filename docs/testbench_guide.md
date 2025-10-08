@@ -215,6 +215,7 @@ adder DUT(
   .a_i ( op1 ),
   .b_i ( op2 )
 );
+```
 
 ![](../img/comb_tb2.jpg)
 
