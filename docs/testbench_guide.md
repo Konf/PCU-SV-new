@@ -279,7 +279,7 @@ module adder(
 endmodule
 ```
 Попробуем запустить симуляцию данного модуля с тестбенчем, код которого представлен ниже:
-``verilog
+```verilog
 module adder_tb();
 
 logic [31:0] op1;
