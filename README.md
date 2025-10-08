@@ -1,8 +1,7 @@
 # Структура репозитория
-## [Полезные материалы](https://github.com/DeSauzzz/PCU-SV-upgrade/tree/main/docs)
+## [Полезные материалы](https://github.com/Konf/PCU-SV-new/tree/pcu2025/docs)
 Здесь лежат материалы, которые помогут быстрее вам вкатиться в основы проектирования на **SystemVerilog**
-### [Гайд на Vivado](https://github.com/DeSauzzz/PCU-SV-upgrade/blob/main/docs/vivado_manual.md)
-### [Гайд по тестированию модуля](https://github.com/DeSauzzz/PCU-SV-upgrade/blob/main/docs/testbench_guide.md)
+### [Гайд на Vivado](https://github.com/Konf/PCU-SV-new/blob/pcu2025/docs/vivado_manual.md)
 ## [Лабораторные работы](https://github.com/Konf/PCU-SV-new/tree/main/Labs)
 Здесь лежат лабораторные работы, которые вам необходимо будет выполнить во время изучения данной дисциплины. Всего в курсе будет **девять** лабораторных работ, которые
 позволят вам получить бесценный опыт в области проектирования цифровых устройств на языке описания аппаратуры **(SystemVerilog)**
